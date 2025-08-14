@@ -53,7 +53,7 @@
 *   **회원 및 관리자 인증/인가 처리:** `/member/login`, `/admin/login` 등의 엔드포인트를 통해 사용자 및 관리자의 로그인, 로그아웃 기능을 구현하고 권한에 따른 접근 제어를 담당하였습니다. 
 *   **게시판 및 공지사항 관리:** `/board/list`, `/board/write`, `/board/view`, `/board/update`, `/board/delete`와 같은 RESTful API 설계를 통해 일반 사용자와 관리자가 게시물 및 공지사항을 생성, 조회, 수정, 삭제할 수 있는 기능을 개발하였습니다. 
 *   **댓글 기능 구현:** `/replies/new`, `/replies/{rno}` (수정), `/replies/{rno}` (삭제) 엔드포인트를 설계하여 게시물에 대한 댓글 작성, 수정, 삭제 기능을 담당하며 사용자 상호작용 기능을 강화하였습니다. 
-*   **거주민 정보 관리 (관리자 전용):** `/admin/resident/register`, `/admin/resident/list`, `/admin/resident/view`, `/admin/resident/update`, `/admin/resident/delete` 등 관리자가 거주민 정보를 등록, 조회, 수정, 삭제할 수 있는 백엔드 로직을 구현하여 데이터 관리의 효율성을 높였습니다. [【3】](about:blank)
+*   **거주민 정보 관리 (관리자 전용):** `/admin/resident/register`, `/admin/resident/list`, `/admin/resident/view`, `/admin/resident/update`, `/admin/resident/delete` 등 관리자가 거주민 정보를 등록, 조회, 수정, 삭제할 수 있는 백엔드 로직을 구현하여 데이터 관리의 효율성을 높였습니다. 
 
 **기술 스택:** Java, Spring, Oracle DB
 

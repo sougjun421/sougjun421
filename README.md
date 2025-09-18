@@ -30,7 +30,6 @@
   <!-- Tools & Collaboration -->
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black" alt="Notion Badge"/>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC" alt="Visual Studio Code Badge"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff" alt="Eclipse IDE Badge"/>
 </p>
@@ -38,11 +37,6 @@
 <br>
 
 🛠️Tech Stack
-<li>Back-end: Java, JSP, Servlet, Spring MVC, MyBatis</li>
-<li>Front-end: HTML, CSS, jQuery</li>
-<li>Database: Oracle, SQL</li>
-<li>Tool: Eclipse, VSCode</li>
-<li>Etc: Git, RPA(UiPath)</li>
 
 ### 🎓 Education 
 <p>2017.02~ 2020.02 청원고등학교 졸업</p>
@@ -96,19 +90,3 @@
 
 <br>
 
-### ♾️ Connect with me
-
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-[website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
-
-<br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)

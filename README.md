@@ -37,6 +37,22 @@
 
 <br>
 
+🛠️Tech Stack
+<li>Back-end: Java, JSP, Servlet, Spring MVC, MyBatis</li>
+<li>Front-end: HTML, CSS, jQuery</li>
+<li>Database: Oracle, SQL</li>
+<li>Tool: Eclipse, VSCode</li>
+<li>Etc: Git, RPA(UiPath)</li>
+
+### 🎓 Education 
+<p>2017.02~ 2020.02 청원고등학교 졸업</p>
+<p>2020.02~ 2025.02 대진대학교 it전자공학과 졸업</p>
+
+### 📜 License
+<p>2022.02 정보처리기능사</p>
+<p>2025.07 정보처리기사(필기)</p>
+<p>2021.04 운전면허증</p>
+
 ### 🏕️ Experiences
 <p>
   **풀스택 국비지원 교육과정 수료:** 웹 개발의 전반적인 지식과 실전 경험을 체계적으로 습득하여 탄탄한 개발 역량을 갖추었습니다.
